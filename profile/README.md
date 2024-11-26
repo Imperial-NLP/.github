@@ -1,7 +1,7 @@
 👋 Hi there!
 ----------
 
-Welcome to the Imperial NLP Group page.
+Welcome to the Imperial LLM Agent Group page.
 
 Get in touch with us:
 - 📫 via email.
